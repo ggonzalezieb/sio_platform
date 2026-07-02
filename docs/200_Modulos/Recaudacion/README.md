@@ -1,0 +1,3 @@
+# Recaudación
+
+Módulo Recaudación.
